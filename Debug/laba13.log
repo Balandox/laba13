@@ -1,0 +1,5 @@
+﻿  main.cpp
+  methods.cpp
+  Создание кода...
+D:\VS repositories\laba13\laba13\methods.cpp(96): warning C4715: BinVect::set: значение возвращается не при всех путях выполнения
+  laba13.vcxproj -> D:\VS repositories\laba13\Debug\laba13.exe
